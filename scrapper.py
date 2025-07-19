@@ -121,7 +121,7 @@ def print_progress(current, total, bar_length=40):
 def main():
     start_time = time.time()
     exc_data = []
-    total_page = 5 
+    total_page = 276 
 
     for page_number in range(1, total_page + 1):
         data = extract_data(page_number)
