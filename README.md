@@ -1,4 +1,4 @@
-# 📘 Canadian Museum Scraper - README
+# 📘 Canadian Museum Scraper
 
 ## 📄 Project Description
 This Python project scrapes data from the Canadian Museum Directory (https://museums.ca) and exports relevant details
